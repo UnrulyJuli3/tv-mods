@@ -1,10 +1,18 @@
 {
     "pollposition": {
         "assets": {
-            "2a136fd6.png": "cd9_fix.jpg"
+            "2a136fd6.png": "cd9_fix.jpg",
+            "8cdd50e7.png": "cd9_fix.jpg"
         },
         "strings": {
-            "Select your agent": "my cool text goes here"
+            "Select your agent": "my cool text goes here",
+            "Disconnected": "foo"
+        }
+    },
+    "triviadeath": {
+        "strings": {
+            "ENTER HERE": "foooooo placeholder",
+            "SEND": "foo"
         }
     }
 }
