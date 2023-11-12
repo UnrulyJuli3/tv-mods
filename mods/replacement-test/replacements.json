@@ -1,0 +1,10 @@
+{
+    "pp3-pollposition": {
+        "assets": {
+            "2a136fd6": "cd9_fix.jpg"
+        },
+        "strings": {
+            "Select your agent": "my cool text goes here"
+        }
+    }
+}
