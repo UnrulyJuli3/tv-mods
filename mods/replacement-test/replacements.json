@@ -12,7 +12,9 @@
     "triviadeath": {
         "strings": {
             "ENTER HERE": "foooooo placeholder",
-            "SEND": "foo"
+            "SEND": "foo",
+            "EVERYBODY'S IN": "no one is in",
+            "CANCEL": "undo"
         }
     }
 }
